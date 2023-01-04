@@ -1,5 +1,7 @@
 # StackOverFlow-Clone
 
+A Stack-over-flow clone of full stack web applications using MERN Stack. We can use of this clone app you can post your doubtful questions, likes, comments, and get your answers as well as you can post your answers in the community page.
+
 ## Login / signup Page:-
 
 ![login](https://user-images.githubusercontent.com/105549298/210152656-10b79d72-31e1-423c-9ca5-a40a3cab5f6a.png)
@@ -38,4 +40,44 @@
 ## Add comments:-
 
 ![comments](https://user-images.githubusercontent.com/105549298/210152651-eabd494b-638f-4144-bf4a-b91830bef096.png)
+
+## Features:-
+* Post your any questions with headings, code and tags.
+* Users can get your answers as well as able to post your answers to help other developers doubt.
+* If its usefull give likes or dislikes and add comments .
+* All questions will be posted in community page. 
+* Posted details like names, no.of.views, tags, date, likes and questions we can make use of that.
+
+## Tech Stack:-
+* React.
+* Redux-toolkit.
+* Node JS, Express JS, MongoDB.
+* Material UI.
+* Firebase.
+
+<hr>
+
+## Easy Installation:-
+
+- vscode: git clone https://github.com/Lisanle1/StackOverFlow-Clone.git
+
+> cd client
+> > npm install && npm start
+>
+> cd server
+> > npm install && npm run dev
+>
+
+#### Note: Use mongodb atlas url and create Firebase account to store your login credentials. Paste your links in process.env respectively. 
+
+
+## Demo Credentials:-
+
+<details>
+<summary>Login</summary>
+
+- email: lisan@gmail.com  
+password: lisan123
+</details>
+
 
