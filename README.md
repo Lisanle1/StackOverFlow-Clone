@@ -43,7 +43,7 @@ A Stack-over-flow clone of full stack web applications using MERN Stack. We can 
 
 ## Features:-
 * Post your any questions with headings, code and tags.
-* Users can get your answers as well as able to post your answers to help other developers doubt.
+* Users can get answers as well as able to post or add mulitple answers to help other developers doubt.
 * If its usefull give likes or dislikes and add comments .
 * All questions will be posted in community page. 
 * Posted details like names, no.of.views, tags, date, likes and questions we can make use of that.
